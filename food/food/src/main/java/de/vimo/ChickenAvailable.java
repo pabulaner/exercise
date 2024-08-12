@@ -1,0 +1,5 @@
+package de.vimo;
+
+enum ChickenAvailable {
+    CHICKEN_WING_HOT,CHICKEN_WING_BBQ,CHICKEN_BREAST_BIG,CHICKEN_BREAST_SPICY
+}
